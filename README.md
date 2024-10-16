@@ -16,7 +16,7 @@ This project is a basic web-based Rock-Paper-Scissors game where a user plays ag
 
 ## Demo
 
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://rock-paper-scissors-game-by-varnik.netlify.app/).
 
 ## Technologies Used
 - HTML5
