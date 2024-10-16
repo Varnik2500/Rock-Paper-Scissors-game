@@ -4,6 +4,7 @@ This is a simple implementation of the classic Rock-Paper-Scissors game using HT
 
 ## Table of Contents
 - [General Information](#general-information)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Features](#features)
@@ -12,6 +13,10 @@ This is a simple implementation of the classic Rock-Paper-Scissors game using HT
 
 ## General Information
 This project is a basic web-based Rock-Paper-Scissors game where a user plays against the computer. The user selects one of three options: rock, paper, or scissors, and the computer randomly selects one. The winner is then displayed along with the updated scores.
+
+## Demo
+
+You can view a live demo of the project [here](#).
 
 ## Technologies Used
 - HTML5
